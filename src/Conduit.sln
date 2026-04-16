@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForEach.Conduit", "ForEach.Conduit\ForEach.Conduit.csproj", "{2B8B06EB-A9F3-42F3-A6FA-9BF3D8909146}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForEach.Conduit.Tests", "ForEach.Conduit.Tests\ForEach.Conduit.Tests.csproj", "{6D952142-524D-4A1B-981B-42F1689507A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B8B06EB-A9F3-42F3-A6FA-9BF3D8909146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B8B06EB-A9F3-42F3-A6FA-9BF3D8909146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B8B06EB-A9F3-42F3-A6FA-9BF3D8909146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B8B06EB-A9F3-42F3-A6FA-9BF3D8909146}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D952142-524D-4A1B-981B-42F1689507A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D952142-524D-4A1B-981B-42F1689507A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D952142-524D-4A1B-981B-42F1689507A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D952142-524D-4A1B-981B-42F1689507A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+.idea
+src/ForEach.Conduit/bin
+src/ForEach.Conduit/obj
+src/ForEach.Conduit.Tests/bin
+src/ForEach.Conduit.Tests/obj
+src/Conduit.sln.DotSettings.user
